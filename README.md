@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a PhD student at KTH Royal Institue of Technology working on boundary integral methods, and more specifically on the development of numerical methods for such methods in order to for example simulate flows governed by the Stokes equations. This includes development, analysis and implementation of fast and accurate methods, such as ones to perform numerical integration of singular and nearly singular integrals.
+
 <!--
 **davidkrantz/davidkrantz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
